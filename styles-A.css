@@ -1,0 +1,29 @@
+#contents {
+
+  width: 80%;
+  margin: 40px auto;
+}
+
+header, footer {
+  width: 80%;
+  background-color: #6b4aad;
+}
+
+#container {
+  width: 80%;
+
+  background-color: #abbddb;
+  display: flex;
+
+}
+
+nav{
+  background-color: #d8d168;
+  width: 20%
+}
+
+main{
+  background-color: #ce68db;
+  width: 80%
+}
+}
